@@ -1,7 +1,7 @@
-import { ProductPage } from "@/components/ProductPage";
+import { ProductPagePersian } from "@/components/ProductPagePersian";
 
 const Index = () => {
-  return <ProductPage />;
+  return <ProductPagePersian />;
 };
 
 export default Index;
